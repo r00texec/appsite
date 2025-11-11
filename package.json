@@ -1,0 +1,26 @@
+{
+  "name": "autoway-uz",
+  "version": "1.0.0",
+  "description": "Профессиональный веб-сайт автосервиса AvtoWayUz",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "server": "npx http-server -p 8000",
+    "dev": "npx live-server",
+    "build": "echo 'Ready to deploy'"
+  },
+  "keywords": [
+    "автосервис",
+    "ремонт автомобилей",
+    "техническое обслуживание",
+    "Узбекистан",
+    "Ташкент"
+  ],
+  "author": "AvtoWayUz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diasaliyev21-sudo/my-site.git"
+  },
+  "homepage": "https://autoway.uz"
+}
