@@ -44,3 +44,12 @@ Thumbs.db
 
 # Testing
 test-results/
+
+# Bot runtime data
+bot/data/*.db
+bot/data/*.db-shm
+bot/data/*.db-wal
+bot/**/__pycache__/
+bot/**/*.pyc
+bot/.env
+bot/venv/
